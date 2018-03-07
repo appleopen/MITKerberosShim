@@ -10,3 +10,5 @@ doc/*
 build/*
 MITKerberosShim.xcodeproj/*.pbxuser
 MITKerberosShim.xcodeproj/*.mode1v3
+MITKerberosShim.xcodeproj/xcuserdata
+MITKerberosShim.xcodeproj/project.xcworkspace
